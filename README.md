@@ -1,0 +1,1 @@
+# this is strictly made for a bug bounty purpose created with the hope of bypassing the OTP rate limited on o private bug bounty program, im not responsible for any kind of using this code for malicious purpose 
