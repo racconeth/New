@@ -1,4 +1,5 @@
 import random
+import os
 
 # Start with the base number
 number = "+1201850"
@@ -9,5 +10,5 @@ for i in range(4):
   number += str(random.randint(0, 9))
 
 # Save the resulting number to a text file
-with open("numbers.txt", "w") as f:
+with open(os.path.join(".", "numbers.txt"), "w") as f:
   f.write(number)
