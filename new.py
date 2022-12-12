@@ -2,7 +2,7 @@ import random
 import os
 
 # Start with the base number
-number = "+1201850"
+number = "+123456"
 
 # Generate 4 random numbers
 for i in range(4):
